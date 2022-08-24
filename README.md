@@ -10,3 +10,4 @@ N/A
 Add an event to the time slot.
 
 ## Credits
+https://github.com/spatel7793/workday-planner
